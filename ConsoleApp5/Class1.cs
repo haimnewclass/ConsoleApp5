@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp5
 {
-    class Class1
+    class Class1 ///sdfsdfs/dfsdfsdfsdfsdfsdf
     {
     }
 }
